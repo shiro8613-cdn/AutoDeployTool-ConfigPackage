@@ -1,0 +1,2 @@
+# AutoDeployTool-ConfigPackage
+AutoDeployTool用のコンフィグ群
